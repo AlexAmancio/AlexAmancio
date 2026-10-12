@@ -1,6 +1,6 @@
 # Alex Valencia Amancio
 
-**DevOps Engineer | Cloud Engineer | SRE**
+**DevOps Engineer | Cloud Engineer | Site Reliability Engineer (SRE)**
 
 Área metropolitana de Lima, Perú
 
