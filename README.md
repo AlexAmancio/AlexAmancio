@@ -15,6 +15,6 @@ DevOps/Cloud enfocado en Azure, IaC y CI/CD. Experiencia práctica automatizando
 
 ## Certificaciones
 
-- Microsoft Certified: Azure Administrator Associate *(Expedición abr. 2026 · Vencimiento abr. 2027)*
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: GitHub Foundations
