@@ -1,6 +1,6 @@
 # Alex Valencia Amancio
 
-**DevOps Engineer | Cloud Engineer | Azure | Terraform | CI/CD**
+**DevOps Engineer | Cloud Engineer | SRE**
 
 Área metropolitana de Lima, Perú
 
